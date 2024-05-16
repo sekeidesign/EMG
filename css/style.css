@@ -13,7 +13,7 @@
   
 html,
 body{
-	font-family: 'Roboto';
+	font-family: 'Roboto-Regular';
     margin: 0;
     padding: 0;
 }
@@ -167,7 +167,7 @@ section.section-container{
 }
 
 section.section-content{
-    font-family: 'Roboto';
+    font-family: 'Roboto-Regular';
 	font-weight: normal;
 	font-size: 18px;
 	left: 0;
