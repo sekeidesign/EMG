@@ -1,30 +1,30 @@
-.poppins-regular {
-    font-family: "Poppins", sans-serif;
+.Roboto-regular {
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
   }
   
-  .poppins-regular-italic {
-    font-family: "Poppins", sans-serif;
+  .Roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: italic;
   }  
   
-  .poppins-medium {
-  font-family: "Poppins", sans-serif;
+  .Roboto-medium {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-style: normal;
   }  
   
-  .poppins-bold {
-  font-family: "Poppins", sans-serif;
+  .Roboto-bold {
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-style: normal;
   }
   
   html,
   body{
-  font-family: 'Poppins', sans-serif;  /*if I put this as 'Poppins', the links work, but as 'Gotham-Bold', they don't.*/
+  font-family: 'Roboto', sans-serif;  /*if I put this as 'Roboto', the links work, but as 'Gotham-Bold', they don't.*/
   margin: 0;
   padding: 0;
   }
