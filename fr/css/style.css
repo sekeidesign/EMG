@@ -61,7 +61,7 @@
   }
   
   button:focus{
-  text-decoration-color: #444444;
+  text-decoration-color: #696969;
   }
   
   header{
@@ -234,7 +234,7 @@
   }
   
   .screen{
-  background: #444444;
+  background: #ffffff;
   display: none;
   height: 100%;
   left: 0;
