@@ -13,7 +13,7 @@
   
   html,
   body{
-  font-family: 'Roboto', sans-serif;  /*if I put this as 'Roboto', the links work, but as 'Gotham-Bold', they don't.*/
+  font-family: 'Roboto';  /*if I put this as 'Roboto', the links work, but as 'Gotham-Bold', they don't.*/
   margin: 0;
   padding: 0;
   }
@@ -203,7 +203,6 @@
   section.section-content.media div p{
   margin: 0;
   }
-  
   
   section.section-content div p span{
   display: inline-block;
