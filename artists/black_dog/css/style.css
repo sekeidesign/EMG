@@ -49,7 +49,7 @@ input,
 optgroup,
 select,
 textarea{
-	font-family: inherit;
+	font-family: "Gotham";
 	font-size: 100%;
 	line-height: 1;
 	margin: 0;
@@ -178,11 +178,13 @@ section.section-content{
 }
 
 section.section-content.about div p{
+	font-family: 'Roboto-Regular';
 	font-weight: normal;
 	margin: 0;
 }
 
 section.section-content.about p span{
+	font-family: 'Gotham';
 	font-weight: bold;
 	margin: 0;
 }
