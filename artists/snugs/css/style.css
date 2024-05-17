@@ -24,7 +24,7 @@ body{
 }
 
 body::after{
-	content:url("https://www.enablemusic.group/images/EMG - Logo (Black)@10x.png");
+	content:url("/Users/kasiasanscartier/Desktop/Websites/EMG_Website_Again/EMG/images/EMG - Logo (Black)@10x.png");
 	height:0; 
 	overflow:hidden;
 	position:absolute; 
