@@ -1,7 +1,6 @@
-function navClick(element)    
+function navClick(btn)    
 {    
     {    
-        var btn = element;
         var btns = document.querySelectorAll('.cta-nav'), a = 0, b = btns.length;
         var sections = document.querySelectorAll('.section-content'), i = 0, l = sections.length;
     
@@ -36,21 +35,18 @@ function navClick(element)
     }
 }   
 
-function logoClick(element)    
+function logoClick(logo)    
 {    
     var screen = document.querySelector('.screen');
     var partners = document.querySelector('.partners');
     var footer = document.querySelector('.footer');
-    var logo = element;
 
     if (screen.style.display == "none"){
-        logo.src = "images/EMG - Logo (Black)@10x.png";
         logo.style.cursor = "zoom-out";
         screen.style.display = "block";
         partners.style.display = "block";
         footer.style.display = "none";
     }else{
-        logo.src = "images/EMG - Logo (Black)@10x.png";
         logo.style.cursor = "zoom-in";
         screen.style.display = "none";
         partners.style.display = "none";
